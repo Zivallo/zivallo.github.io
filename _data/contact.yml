@@ -4,6 +4,10 @@
   type: github
   icon: 'fab fa-github'
 -
+  type: linkedin
+  icon: 'fab fa-linkedin'
+  url: 'https://www.linkedin.com/in/soowan-cho-271162229/'
+-
   type: instagram
   icon: 'fab fa-instagram'
   url: 'https://www.instagram.com/edgeak/'
@@ -15,10 +19,14 @@
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
-#-
-#  type: rss
-#  icon: 'fas fa-rss'
-#  noblank: true
+-
+  type: kakaotalk
+  icon: 'fas fa-comment'
+  url: 'https://open.kakao.com/o/sEcI8B1c'
+-
+  type: rss
+  icon: 'fas fa-rss'
+  noblank: true
 
 # Uncomment and complete the url below to enable more contact options
 # -
