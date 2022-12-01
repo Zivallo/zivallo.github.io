@@ -2,7 +2,7 @@
 title: Symbolic link / 파일종류 / Host / User / Group [Linux]
 author: Soowan Cho
 date: 2022-12-01 12:00:00 +0500
-categories: [Linux, Concept]
+categories: [Linux, Linux Concept]
 tags: [Linux, Symbolic link, user, host, group, 파일종류]
 ---
 

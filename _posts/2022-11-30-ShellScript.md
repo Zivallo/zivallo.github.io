@@ -2,7 +2,7 @@
 title: Shell Script [Linux]
 author: Soowan Cho
 date: 2022-11-30 12:00:00 +0500
-categories: [Linux, Shell]
+categories: [Linux, Linux Shell]
 tags: [Linux, Shell Script]
 ---
 

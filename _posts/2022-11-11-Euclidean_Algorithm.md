@@ -2,7 +2,7 @@
 title: 유클리드 호제법(Euclidean algorithm) [C++]
 author: Soowan Cho
 date: 2022-11-11 12:00:00 +0500
-categories: [Algorithm, Concept]
+categories: [Algorithm, Algorithm Concept]
 tags: [Algorithm, GCD,LCM]
 ---
 
