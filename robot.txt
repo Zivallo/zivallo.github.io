@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zivallo.github.io/sitemap.xml
